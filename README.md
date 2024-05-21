@@ -34,7 +34,7 @@ This directory contains the data file:
 The data preprocessing is performed in the file Project1Code.py
 
 
-## PythonMLProj 
+## src 
 
 This folder contains the final files required for the transformation of the variables and implementation of the selected model, product of the training performed. In addition, the jupyter notebook containing the process of data cleaning and analysis, as well as model analysis and training is also in this folder, in addition to some other files required for the deployment of the model on the web.
 
