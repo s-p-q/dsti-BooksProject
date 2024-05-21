@@ -1,0 +1,4 @@
+.vs/VSWorkspaceState.json
+.venv/
+PythonMLProj/__pycache__
+Data/books_prep.csv
